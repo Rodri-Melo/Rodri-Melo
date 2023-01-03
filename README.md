@@ -30,7 +30,7 @@ Atualmente estou em transição de carreira, sou estudante de Desenvolvimento Fu
   <a href="https://github.com/Rodri-Melo" target="_blank">
     <img  src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
   </a><br />
-  <a href="https://https://www.linkedin.com/in/rodrineves//" target="_blank">
+  <a href="https://www.linkedin.com/in/rodrineves" target="_blank">
     <img  src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
   </a>
 </div>
