@@ -1,4 +1,4 @@
-<h1 align="center"> Saudações o/ </h1>
+<h1 align="center"> Seja Bem Vindo 🙂 </h1>
 <hr />
 
 <p align="center">
@@ -14,12 +14,14 @@
 <br />
 Conheci o mundo da programação e foi um divisor de aguas, gostei muito e desde então busco me aprimorar cada vez mais.
 <br />
-Atualmente estou em transição de carreira, sou estudante de Desenvolvimento Full stack na Trybe </b>. <br/>
+Atualmente estou em transição de carreira, sou estudante de Desenvolvimento Full stack na Trybe 💻 💻</b>. <br/>
 </p>
 
 
 </p>
-
+<div align="center">
+  <img alt="octo" src="https://i.imgur.com/oI4wjo1.png" />
+</div>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodri-Melo&layout=compact&theme=graywhite&title_color=268bd2" alt="Rodrigo Neves" />
 
 **Linguagens :**  
