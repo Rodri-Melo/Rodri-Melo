@@ -23,10 +23,10 @@ Atualmente estou em transição de carreira, sou estudante de Desenvolvimento Fu
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg" alt="Docker" width="40" height="40" />
 </p>
 <p>
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodri-Melo&layout=compact&theme=graywhite&title_color=268bd2" alt="Rodrigo Neves" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodri-Melo&layout=compact&theme=graywhite&title_color=268bd2" alt="Rodrigo Neves" />
 </p>
 
-<div>
+<div align="center" >
   <a href="https://github.com/Rodri-Melo" target="_blank">
     <img  src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
   </a><br />
