@@ -22,7 +22,7 @@ Atualmente estou em transição de carreira, sou estudante de Desenvolvimento Fu
 <div align="center">
   <img alt="octo" src="https://i.imgur.com/oI4wjo1.png" />
 </div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodri-Melo&layout=compact&theme=graywhite&title_color=268bd2" alt="Rodrigo Neves" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodri-melo&layout=compact&theme=graywhite&title_color=268bd2" alt="Rodrigo Neves" />
 
 **Linguagens :**  
 
