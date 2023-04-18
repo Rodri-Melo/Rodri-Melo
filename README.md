@@ -19,12 +19,9 @@ Atualmente estou em transição de carreira, sou estudante de Desenvolvimento Fu
 
 
 </p>
-<div align="center">
-  <img alt="octo" src="https://i.imgur.com/oI4wjo1.png" />
-</div>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodri-melo&layout=compact&theme=graywhite&title_color=268bd2" alt="Rodrigo Neves" />
 
-**LTecnologias :**  
+**Tecnologias e Ferramentas :**  
 
 <div style="display: inline_block" >
   <img align="center" alt="eslint" src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" />
