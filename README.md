@@ -14,7 +14,7 @@
 <p > ➡️ Estou em transição de carreira, sou estudante de Desenvolvimento Full stack na Trybe 💻 💻
 <br />
 <br />
- Desde que comecei me encantei pelo mundo da programação, e por todas as coisas que conseguia fazer, hoje estou em busca de uma primeira oportunidade na area. 😊🚀
+Desde que comecei a estudar programação, fiquei fascinado com as possibilidades que se abrem diante de mim. Estou muito motivado em desenvolver minhas habilidades e aplicá-las em projetos desafiadores na área de desenvolvimento, e atualmente busco minha primeira oportunidade profissional. 😊🚀
 <br />
 <br />  
  🎧🎮 Nas horas vagas, gosto de jogar videogames, ouvir musicas e podcasts sobre tecnologia e ciência. 🎮🎧
