@@ -11,11 +11,13 @@
 
   </a>
 
-<p > Meu nome é Rodrigo Neves, tenho 26 anos, e moro em São Paulo 
+<p > Estou em transição de carreira, sou estudante de Desenvolvimento Full stack na Trybe 💻 💻
 <br />
-Conheci o mundo da programação e foi um divisor de aguas, gostei muito e desde então busco me aprimorar cada vez mais.
 <br />
-Atualmente estou em transição de carreira, sou estudante de Desenvolvimento Full stack na Trybe 💻 💻</b>. <br/>
+ Desde que comecei me encantei por programar, principalmente por back-end
+<br />
+<br />  
+ No meu tempo livre gosto de 
 </p>
 
 
