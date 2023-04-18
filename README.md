@@ -11,7 +11,7 @@
 
   </a>
 
-<p align="center" > Meu nome é Rodrigo Neves, tenho 26 anos, e moro em São Paulo 
+<p > Meu nome é Rodrigo Neves, tenho 26 anos, e moro em São Paulo 
 <br />
 Conheci o mundo da programação e foi um divisor de aguas, gostei muito e desde então busco me aprimorar cada vez mais.
 <br />
