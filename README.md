@@ -14,7 +14,7 @@
 <p > Estou em transição de carreira, sou estudante de Desenvolvimento Full stack na Trybe 💻 💻
 <br />
 <br />
- Desde que comecei me encantei por programar, principalmente por back-end
+ Desde que comecei me encantei pelo mundo da programação, e por todas as coisas que conseguia fazer, hoje estou em busca de uma primeira oportunidade na area 😊🚀
 <br />
 <br />  
  No meu tempo livre gosto de 
