@@ -11,13 +11,13 @@
 
   </a>
 
-<p > ➡️Estou em transição de carreira, sou estudante de Desenvolvimento Full stack na Trybe 💻 💻
+<p > ➡️ Estou em transição de carreira, sou estudante de Desenvolvimento Full stack na Trybe 💻 💻
 <br />
 <br />
- Desde que comecei me encantei pelo mundo da programação, e por todas as coisas que conseguia fazer, hoje estou em busca de uma primeira oportunidade na area 😊🚀
+ Desde que comecei me encantei pelo mundo da programação, e por todas as coisas que conseguia fazer, hoje estou em busca de uma primeira oportunidade na area. 😊🚀
 <br />
 <br />  
- 🎧🎮Nas horas vagas, gosto de jogar videogames, ouvir musicas e podcasts sobre tecnologia e ciência. 🎮🎧
+ 🎧🎮 Nas horas vagas, gosto de jogar videogames, ouvir musicas e podcasts sobre tecnologia e ciência. 🎮🎧
 </p>
 
 
