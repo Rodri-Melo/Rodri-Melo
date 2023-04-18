@@ -17,7 +17,7 @@
  Desde que comecei me encantei pelo mundo da programação, e por todas as coisas que conseguia fazer, hoje estou em busca de uma primeira oportunidade na area 😊🚀
 <br />
 <br />  
- No meu tempo livre gosto de 
+ Nas horas vagas, gosto de jogar videogames, ouvir musicas e podcasts sobre tecnologia e ciência. 🎮🎧
 </p>
 
 
