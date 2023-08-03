@@ -17,7 +17,7 @@
 Desde que comecei a estudar programação, fiquei fascinado com tantas possibilidades. Estou muito motivado em desenvolver minhas habilidades e aplicá-las em projetos desafiadores na área de desenvolvimento. 😊🚀
 <br />
 <br />  
-🌎 Atualmente buscando minha primeira oportunidade profissional. 🌎
+🌎 Atualmente Estudando Java. 🌎
 <br />
 <br />  
  🎧🎮 Nas horas vagas, gosto de jogar videogames, ouvir musicas e podcasts sobre tecnologia e ciência. 🎮🎧
