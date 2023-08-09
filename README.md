@@ -11,7 +11,8 @@
 
   </a>
 
-<p > ➡️ Estou em transição de carreira, Estudante de análise e Desenvolvimento de Sistemas na FAM e formado no curso Desenvolvimento Full stack na Trybe 💻 💻
+<p > ➡️ Desenvolvedor Full stack formado na Trybe e Estudante de análise e Desenvolvimento de Sistemas na FAM
+ 💻 💻
 <br />
 <br />
 Desde que comecei a estudar programação, fiquei fascinado com tantas possibilidades. Estou muito motivado em desenvolver minhas habilidades e aplicá-las em projetos desafiadores na área de desenvolvimento. 😊🚀
