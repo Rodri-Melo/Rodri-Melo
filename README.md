@@ -17,15 +17,6 @@
 
 <h3>Linguagens e Ferramentas 🔨</h3>
 
-<div>
-  <!-- Ícone do JavaScript com cor amarela -->
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/javascript.svg" alt="JavaScript" width="50" height="50" style="color: #F7DF1E; margin-right: 10px;">
-  
-  <!-- Ícone do HTML5 com cor laranja -->
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/html5.svg" alt="HTML5" width="50" height="50" style="color: #E34F26; margin-right: 10px;">
-  
-  <!-- Ícone do CSS3 com cor azul -->
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/css3.svg" alt="CSS3" width="50" height="50" style="color: #1572B6;">
-</div>
+
 
 
