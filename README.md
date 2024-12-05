@@ -18,9 +18,9 @@
 <h3>Linguagens e Ferramentas 🔨</h3>
 
 <div>
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/javascript.svg" alt="JavaScript" width="50" height="50" style="margin-right: 10px;">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/html5.svg" alt="HTML5" width="50" height="50" style="margin-right: 10px;">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/css3.svg" alt="CSS3" width="50" height="50">
 </div>
 
 
