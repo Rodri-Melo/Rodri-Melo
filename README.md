@@ -15,6 +15,6 @@
 </ul>
 </div>
 
-<div align="center">
+<div align="center" style="margin-top: 50px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodri-melo&layout=compact&theme=graywhite&title_color=268bd2" alt="Rodrigo Neves" />
 </div>
