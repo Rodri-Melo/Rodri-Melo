@@ -16,6 +16,20 @@
 </div>
 
 <h3>Linguagens e Ferramentas 🔨</h3>
+<div>
+  <!-- Ícone do Python -->
+  <img src="https://raw.githubusercontent.com/devicons/master/icons/python/python-original.svg" alt="Python" width="50" height="50" style="margin-right: 10px;">
+  
+  <!-- Ícone do HTML -->
+  <img src="https://raw.githubusercontent.com/devicons/master/icons/html5/html5-original.svg" alt="HTML" width="50" height="50" style="margin-right: 10px;">
+  
+  <!-- Ícone do CSS -->
+  <img src="https://raw.githubusercontent.com/devicons/master/icons/css3/css3-original.svg" alt="CSS" width="50" height="50" style="margin-right: 10px;">
+  
+  <!-- Ícone do JavaScript -->
+  <img src="https://raw.githubusercontent.com/devicons/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50">
+</div>
+
 
 
 
