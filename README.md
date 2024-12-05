@@ -2,7 +2,7 @@
 
 <div> 
   
-  <h5>Sou o Rodrigo 👋</h5>
+  <h3>Sou o Rodrigo 👋</h3>
   
   <ul>
     <li>🔭 Sou um desenvolvedor Full Stack!</li>
