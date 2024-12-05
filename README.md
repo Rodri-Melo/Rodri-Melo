@@ -24,7 +24,10 @@ Desde que comecei a estudar programação, fiquei fascinado com tantas possibili
 
 
 </p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodri-melo&layout=compact&theme=graywhite&title_color=268bd2" alt="Rodrigo Neves" />
+ <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodri-melo&layout=compact&theme=graywhite&title_color=268bd2" alt="Rodrigo Neves" />
+</div>
+
 
 **Tecnologias e Ferramentas :**  
 
