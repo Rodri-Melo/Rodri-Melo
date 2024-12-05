@@ -1,6 +1,6 @@
 <h1 align="center"> Seja Bem Vindo 🙂 </h1>
 
-<hr style="border: none; border-top: 1px solid #ccc; margin: 20px 0;" />
+
 
 <h2> Sou o Rodrigo  👋 </h2>
 
