@@ -2,7 +2,7 @@
 
 <div> 
   
-  <h3>Mais sobre mim</h3>
+  <h3>Mais sobre mim 🧐</h3>
   
   <ul>
     <li>🔭 Sou um desenvolvedor Full Stack!</li>
