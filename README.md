@@ -18,7 +18,7 @@
 <h3>Linguagens e Ferramentas 🔨</h3>
 <div>
   <!-- Ícone do HTML -->
-  <img src="https://raw.githubusercontent.com/devicons/master/icons/python/python-original.svg>
+  <img src="https://raw.githubusercontent.com/devicons/master/icons/python/python-original.svg">
 </div>
 
 
