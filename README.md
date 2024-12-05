@@ -1,7 +1,10 @@
 <h1 align="center"> Seja Bem Vindo 🙂 </h1>
 
 <div> 
-  <h2 style="margin-bottom: 0;">Sou o Rodrigo 👋</h2>
+  <div style="margin-bottom: 0;">
+  <h2>Sou o Rodrigo 👋</h2>
+</div>
+
 
   <ul>
     <li>🔭 Sou um desenvolvedor Full Stack!</li>
