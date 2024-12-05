@@ -2,7 +2,7 @@
 
 <div> 
   
-  <p style="font-size: 22px;">Sou o Rodrigo 👋</p>
+  <p style="font-size: 32px;">Sou o Rodrigo 👋</p>
   
   <ul>
     <li>🔭 Sou um desenvolvedor Full Stack!</li>
