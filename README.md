@@ -18,13 +18,7 @@
 <h3>Linguagens e Ferramentas 🔨</h3>
 <div>
   <!-- Ícone do HTML -->
-  <img src="https://cdn.jsdelivr.net/npm/devicons@2.2.0/font-awesome/html5.svg" alt="HTML" width="50" height="50" style="margin-right: 10px;">
-  
-  <!-- Ícone do CSS -->
-  <img src="https://cdn.jsdelivr.net/npm/devicons@2.2.0/font-awesome/css3.svg" alt="CSS" width="50" height="50" style="margin-right: 10px;">
-  
-  <!-- Ícone do JavaScript -->
-  <img src="https://cdn.jsdelivr.net/npm/devicons@2.2.0/font-awesome/javascript.svg" alt="JavaScript" width="50" height="50">
+  <img src="https://raw.githubusercontent.com/devicons/master/icons/python/python-original.svg>
 </div>
 
 
