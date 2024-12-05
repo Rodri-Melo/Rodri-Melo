@@ -6,7 +6,6 @@
   
   <ul>
     <li>🔭 Sou um desenvolvedor Full Stack!</li>
-    <li>🔭 Atualmente estou trabalhando em algo incrível 😉</li>
     <li>📚 Estudo Análise e Desenvolvimento de Sistemas (ADS).</li>
     <li>💬 Me pergunte qualquer coisa sobre React, Next.js, ou Javascript/Typescript!</li>
     <li>🌱 Estou sempre aprendendo sobre Front-end.</li>
